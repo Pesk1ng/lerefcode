@@ -1,0 +1,1 @@
+<?php require 'view/404view.html' ;?>
